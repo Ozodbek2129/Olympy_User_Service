@@ -1,0 +1,6 @@
+[submodule "Olympy_protos"]
+	path = Olympy_protos
+	url = git@github.com:Ozodbek2129/Olympy_protos.git
+[submodule "Olympy_proto"]
+	path = Olympy_proto
+	url = git@github.com:Ozodbek2129/Olympy_proto.git
